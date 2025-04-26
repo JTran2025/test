@@ -7,7 +7,7 @@ function Home() {
   const handleSearch = () => {
     console.log("Searching for:", query);
   };
-
+//test
   return (
     <Container className="mt-5">
       <h3 className="text-center mb-2">Plan your perfect road trip across Massachusetts!</h3>
